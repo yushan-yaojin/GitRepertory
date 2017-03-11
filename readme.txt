@@ -18,3 +18,7 @@ version:1.0.4
 version:1.0.5
 	
 	Hi,this is the fifth modify.
+	
+version:1.0.06
+	
+	Hi,this is the sixth modify.
