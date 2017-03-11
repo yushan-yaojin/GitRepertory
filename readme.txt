@@ -22,3 +22,7 @@ version:1.0.5
 version:1.0.06
 	
 	Hi,this is the sixth modify.
+
+version:1.0.7
+
+	Hi,this is the seventh modify.
